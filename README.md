@@ -1,5 +1,9 @@
 # -PROGRAMAÇÃO WEB FRONT END-.github.io
 
- Luhan Christyan Rodrigues Batista 
+Titulo do projeto: Curriculo 
 
-Curriculo 
+
+
+| ID   |                                Aluno                                   |   RA       | 
+| :--: | :-----------------------------------------------------------------------: | :--------: |
+|   01 |           Luhan Christyan Rodrigues Batista                               |  2453630   |    
