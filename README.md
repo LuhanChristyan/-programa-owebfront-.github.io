@@ -1,6 +1,6 @@
 # -PROGRAMAÇÃO WEB FRONT END-.github.io
 
-Titulo do projeto: Curriculo 
+ Curriculo 
 
 
 
